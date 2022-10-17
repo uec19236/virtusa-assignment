@@ -1,2 +1,0 @@
-# virtusa-assignment+
-assignments
